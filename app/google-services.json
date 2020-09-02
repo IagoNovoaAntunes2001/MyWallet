@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "47657025825",
+    "firebase_url": "https://walletmoney-b89fd.firebaseio.com",
+    "project_id": "walletmoney-b89fd",
+    "storage_bucket": "walletmoney-b89fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47657025825:android:91e486e40e9f4695e57e60",
+        "android_client_info": {
+          "package_name": "com.example.walletmoney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47657025825-38c91g1t6f4lhs7biumip5vbmc4bbp1s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.walletmoney",
+            "certificate_hash": "d834f1364e638d2599adfe6a08f6264649ef4f6e"
+          }
+        },
+        {
+          "client_id": "47657025825-fj3euaddjkkuoqv1duvoq486dtct4g19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfDTATre4kW3a4WDjUv7Tvf3gsELpiams"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47657025825-fj3euaddjkkuoqv1duvoq486dtct4g19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
