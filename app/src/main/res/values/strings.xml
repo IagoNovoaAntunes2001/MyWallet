@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Wallet Money</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="home_title">HomeFragment</string>
+    <string name="home_title">Home</string>
+    <string name="home_fragment_buttonTitle_google">Google</string>
+    <string name="home_fragment_buttonTitle_facebook">Facebook</string>
 </resources>
